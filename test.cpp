@@ -6,5 +6,6 @@ int main() {
     cin.tie(nullptr);
 
     cout << "Hello, World!" << endl;
+    cout << "This is my attempt to create a programming language." << endl;
     return 0;
 }
